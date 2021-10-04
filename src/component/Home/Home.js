@@ -27,7 +27,7 @@ const Home = () => {
                      </div>
                 </section>
                 <section className='container text-center mt-4 mb-10'>
-                    <p><h2 className='text-5xl'>to learn more capter of islamic history <NavLink to='/services'>click here</NavLink></h2></p>
+                    <p><h2 className='text-5xl'>to learn more capter of islamic history <NavLink to='/services' className='text-black'>click here</NavLink></h2></p>
                 </section>
         </div>
     );
