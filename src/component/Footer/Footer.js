@@ -2,8 +2,10 @@ import React from 'react';
 
 const Footer = () => {
     return (
-        <div className='container text-center'>
-            <small>Copyright © 2021 Learn Islamic History</small>
+        <div className='bg-gray-300 text-black pt-20 pb-20'>
+            <div className='container text-center font-bold'>
+                <small>Copyright © 2021 Learn Islamic History</small>
+            </div>
         </div>
     );
 };

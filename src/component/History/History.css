@@ -1,8 +1,9 @@
 .single-history {
+    background-color: rgba(255, 255, 255, 0.082);
     height: 450px;
     text-align: center;
     padding: 10px 5px;
-    border: 1px solid gray;
+    border: 1px solid white;
     border-radius: 5px;
     margin:5px 5px;
 }

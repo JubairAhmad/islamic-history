@@ -2,8 +2,8 @@ import React from 'react';
 
 const About = () => {
     return (
-        <div>
-            <p className='container mt-3'>
+        <div className='global'>
+            <p className='container mt-20 mb-20 font-bold'>
                 Islamic world, also called Islamdom, the complex of societies and cultures in which Muslims and their faith have been prevalent and socially dominant.
 
                 Adherence to Islam is a global phenomenon: Muslims predominate in some 30 to 40 countries, from the Atlantic eastward to the Pacific and along a belt that stretches across northern Africa into Central Asia and south to the northern regions of the Indian subcontinent. Arabs account for fewer than one-fifth of all Muslims, more than half of whom live east of Karachi, Pakistan. Despite the absence of large-scale Islamic political entities, the Islamic faith continues to expand, by some estimates faster than any other major religion.

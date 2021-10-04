@@ -12,7 +12,7 @@ const Services = () => {
     }, [])
 
     return (
-        <div >
+        <div className='global'>
                  <div className='home container '>
 
                 {
