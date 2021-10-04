@@ -18,7 +18,7 @@ const Home = () => {
                 <div className='home container '>
 
                      {
-                         histories.map(history => <HomeDisplay
+                         histories.map(history  =>  <HomeDisplay
                          key={history.id}
                          history={history}
                          ></HomeDisplay>
