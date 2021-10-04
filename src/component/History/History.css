@@ -1,0 +1,14 @@
+.single-history {
+    height: 450px;
+    text-align: center;
+    padding: 10px 5px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    margin:5px 5px;
+}
+.single-history img{
+    width: 200px;
+    height: 150px;
+    text-align: center;
+    margin: 0 auto;
+}
