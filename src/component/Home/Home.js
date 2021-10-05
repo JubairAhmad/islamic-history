@@ -1,6 +1,5 @@
 import React, { useEffect, useState } from 'react';
 import { NavLink } from 'react-router-dom';
-import History from '../History/History';
 import HomeDisplay from '../HomeDisplay/HomeDisplay';
 import "./Home.css"
 const Home = () => {
